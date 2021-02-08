@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="getting-started-with-cryptocurrencies.html"}
-if(x=="2"){xxx="online-business-success.html"}
-if(x=="3"){xxx="use-your-prowess-to-earn-money-virtually.html"}
-if(x=="4"){xxx="underused-seo-link-building-tactics.html"}
-if(x=="5"){xxx="how-to-get-good-page-rank-on-google.html"}a_to_ve[i].href="https://goto.id45.cyou/2021/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="is-our-health-and-success-really-shaped.html"}
+if(x=="2"){xxx="struggling-with-antibiotic-resistance.html"}
+if(x=="3"){xxx="american-health-care-trends-old-fat-and.html"}
+if(x=="4"){xxx="aging-does-not-have-to-mean-decreased.html"}
+if(x=="5"){xxx="sterility-in-medicine.html"}a_to_ve[i].href="https://go.freemedi.cyou/2021/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
